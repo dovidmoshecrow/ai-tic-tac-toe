@@ -10,7 +10,7 @@ a simple AI for tic-tac-toe
 ## Usage
 
 ```js
- let tictactoe = require('tictactoe');
+ let tictactoe = require('ai-tic-tac-toe');
  let board = ['x','x','o',
               '','o','',
               '','','']
